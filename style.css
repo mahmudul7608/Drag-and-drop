@@ -42,7 +42,7 @@ body {
   align-items: center;
   justify-content: center;
   font-size: 28px;
-  height: 60px;
+  height: 50px;
   width: 60px;
 }
 .draggable-list li.over .draggable {
